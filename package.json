@@ -22,6 +22,7 @@
 },
 "homepage": "https://github.com/The-King-Destroy/YukiBot-MD#readme",
 "dependencies": {
+"@bochilteam/scraper": "^5.0.1",
 "@hapi/boom": "^10.0.1",
 "@vitalets/google-translate-api": "^8.0.0",
 "@whiskeysockets/baileys": "github:this-xyz/bails",
